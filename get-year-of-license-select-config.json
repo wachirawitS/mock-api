@@ -1,0 +1,19 @@
+{
+  "success": "true",
+  "developerMessage": "fetch config success",
+  "data": {
+    "id": "122yYYUasdPPh",
+    "name": "YEAR_OF_LICENSE_CONFIG",
+    "value": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ]
+  }
+}
