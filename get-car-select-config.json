@@ -1,0 +1,29 @@
+{
+  "success": "true",
+  "developerMessage": "fetch config success",
+  "data": {
+    "id": "122yYYUasdPPh",
+    "name": "CAR_SELECT_CONFIG",
+    "value": [
+      "tanzaz"
+    ],
+    "subConfig": [
+      {
+        "id": "aa12233aa4aa",
+        "name": "HONDA",
+        "value": [
+          "CIVIC",
+          "JAZZ"
+        ]
+      },
+      {
+        "id": "aaaaaaasd22221",
+        "name": "TOYOTA",
+        "value": [
+          "PAVILION",
+          "ALTIS"
+        ]
+      }
+    ]
+  }
+}
